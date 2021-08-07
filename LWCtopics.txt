@@ -1,0 +1,6 @@
+1. Web components
+2. JS fundamentals
+3. Lightning components basics
+4. LWC - Advanced topics
+5. LWC - Advanced topics - II
+6. LWC - advanced topics - III
